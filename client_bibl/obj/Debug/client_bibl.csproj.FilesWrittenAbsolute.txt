@@ -1,0 +1,5 @@
+/Users/MacBook/Projects/laba2/client_bibl/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/MacBook/Projects/laba2/client_bibl/bin/Debug/client_bibl.dll.mdb
+/Users/MacBook/Projects/laba2/client_bibl/bin/Debug/client_bibl.dll
+/Users/MacBook/Projects/laba2/client_bibl/obj/Debug/client_bibl.dll
+/Users/MacBook/Projects/laba2/client_bibl/obj/Debug/client_bibl.dll.mdb

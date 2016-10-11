@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5D280B66-E54F-4738-B23E-FA97CDB8DCAD}|Default">
+  <MonoDevelop.Ide.ItemProperties.start PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="laba2/Server.cs">
+    <Files>
+      <File FileName="client/Program.cs" Line="26" Column="6" />
+      <File FileName="start/Program.cs" Line="27" Column="4" />
+      <File FileName="client_bibl/Clibibl.cs" Line="22" Column="10" />
+      <File FileName="laba2/Server.cs" Line="10" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

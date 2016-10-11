@@ -1,0 +1,9 @@
+/Users/MacBook/Projects/laba2/client/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/MacBook/Projects/laba2/client/bin/Debug/client.exe.mdb
+/Users/MacBook/Projects/laba2/client/bin/Debug/client.exe
+/Users/MacBook/Projects/laba2/client/obj/x86/Debug/client.exe
+/Users/MacBook/Projects/laba2/client/obj/x86/Debug/client.exe.mdb
+/Users/MacBook/Projects/laba2/client/bin/Debug/laba2.dll
+/Users/MacBook/Projects/laba2/client/bin/Debug/laba2.dll.mdb
+/Users/MacBook/Projects/laba2/client/bin/Debug/client_bibl.dll
+/Users/MacBook/Projects/laba2/client/bin/Debug/client_bibl.dll.mdb

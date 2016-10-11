@@ -1,0 +1,5 @@
+/Users/MacBook/Projects/laba2/laba2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/MacBook/Projects/laba2/laba2/bin/Debug/laba2.dll.mdb
+/Users/MacBook/Projects/laba2/laba2/bin/Debug/laba2.dll
+/Users/MacBook/Projects/laba2/laba2/obj/Debug/laba2.dll
+/Users/MacBook/Projects/laba2/laba2/obj/Debug/laba2.dll.mdb
